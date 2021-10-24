@@ -1,6 +1,9 @@
 lila-openingexplorer3
 =====================
 
+Merged into https://github.com/niklasf/lila-openingexplorer
+-----------------------------------------------------------
+
 Personal opening explorer
 [under development](https://github.com/niklasf/lila-openingexplorer3/projects/1)
 and maybe future replacement for [lila-openingexplorer](https://github.com/niklasf/lila-openingexplorer).
